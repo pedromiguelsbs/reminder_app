@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-Reminder App é um projeto desenvolvido com o objetivo de guardar lembretes. 
+"Reminder App" é um projeto desenvolvido com o objetivo guardar lembretes através de uma interface gráfica.
 
 ## Layout Mobile
 ![Demonstração 1](https://i.imgur.com/AMO1D4M.png)

@@ -9,7 +9,7 @@ Reminder App é um projeto desenvolvido com o objetivo de guardar lembretes.
 ![Demonstração 1](https://i.imgur.com/AMO1D4M.png)
 
 ## Layout Web
-![Demonstração 2](https://i.imgur.com/z37CLcp.png)
+![Demonstração 2](https://i.imgur.com/z37CLcp.png?1)
 
 
 # Tecnologias utilizadas

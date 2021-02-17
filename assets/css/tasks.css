@@ -1,0 +1,33 @@
+.task {
+  background-color: var(--white);
+  height: 50px;
+  padding: 5px 1.25rem;
+  margin-top: 1rem;
+  border-bottom: 2px solid #d1d3d4;
+  border-radius: 5px;
+  box-shadow: 8px 8px 25px var(--black);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.task__name {
+  font-weight: 400;
+  font-size: 1rem;
+  color: rgb(75, 75, 75);
+}
+
+.task__button {
+  background-color: var(--secondary-color);
+  color: var(--white);
+  height: 40px;
+  width: 40px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+}
+
+.completed {
+  text-decoration: line-through;
+}

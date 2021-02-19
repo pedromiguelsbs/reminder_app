@@ -20,7 +20,10 @@
 
 # Como executar o projeto?
 
-## Front end web
+## 1° Opcão: Link
+https://pedromiguelsbs.github.io/reminder_app/
+
+## 2° Opção: Executar localmente
 
 ```bash
 # 1°) Clone o repositório:

@@ -6,14 +6,14 @@
 "Reminder App" é um projeto desenvolvido com o objetivo guardar lembretes através de uma interface gráfica.
 
 ## Layout Mobile
-![Demonstração 1](https://i.imgur.com/AMO1D4M.png)
+![Demonstração 1](https://i.imgur.com/7qa6Nws.png?1)
 
 ## Layout Web
-![Demonstração 2](https://i.imgur.com/z37CLcp.png?1)
+![Demonstração 2](https://i.imgur.com/4h7jGDH.png?1)
 
 
 # Tecnologias utilizadas
-## Front end
+## Front-End
 - HTML
 - CSS
 - JavaScript

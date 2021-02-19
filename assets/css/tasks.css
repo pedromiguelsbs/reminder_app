@@ -1,6 +1,7 @@
 .task {
   background-color: var(--white);
-  height: 50px;
+  min-height: 50px;
+  height: auto;
   padding: 5px 1.25rem;
   margin-top: 1rem;
   border-bottom: 2px solid #d1d3d4;
@@ -12,6 +13,8 @@
 }
 
 .task__name {
+  max-width: 268px;
+  word-wrap: break-word;
   font-weight: 400;
   font-size: 1rem;
   color: rgb(75, 75, 75);

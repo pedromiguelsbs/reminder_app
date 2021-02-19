@@ -4,7 +4,6 @@ const tasksArea = document.querySelector(".tasks");
 const verifyInput = () => {
   const input = document.querySelector("[data-input]");
 
-  console.log(input.value);
   if (input.value.length == 0) {
     alert("Insira um lembrete!");
   } else {

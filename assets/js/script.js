@@ -37,3 +37,8 @@ const verifyInput = () => {
 };
 
 addButton.addEventListener("click", verifyInput);
+window.addEventListener('keydown', (event) => {
+  if (event.key === "Enter") {
+    addButton.click();
+  }
+})
